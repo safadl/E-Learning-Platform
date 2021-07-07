@@ -1,2 +1,2 @@
-# E-Learning-Platform
+# E-Learning Platform
 A MERN stack website
